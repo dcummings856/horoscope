@@ -1,4 +1,3 @@
-let form = document.querySelector('form')
 let btn = document.querySelector('#submit-btn')
 let section_h2 = document.querySelector('h2')
 let section_p = document.querySelector('p')
